@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://www.your-website.com?p=1</loc>
+        <changefreq>monthly</changefreq>
+        <periority>0.5</periority>
+        <lastmod>2014-05-21</lastmod>
+    </url>
+    <url>
+        <loc>http://www.your-website.com?p=2</loc>
+        <changefreq>monthly</changefreq>
+        <periority>0.5</periority>
+        <lastmod>2014-05-21</lastmod>
+    </url>
+    <url>
+        <loc>http://www.your-website.com?p=3</loc>
+        <changefreq>weekly</changefreq>
+        <periority>1.00</periority>
+        <lastmod>2014-05-21</lastmod>
+    </url>
+    <url>
+        <loc>http://www.your-website.com?p=4</loc>
+        <changefreq>daily</changefreq>
+        <periority>0.2</periority>
+        <lastmod>2014-05-21</lastmod>
+    </url>
+</urlset>
